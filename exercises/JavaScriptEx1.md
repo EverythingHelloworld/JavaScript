@@ -3,7 +3,7 @@
 
 ## Clone the Remote Repository
 
-1.	Accept the GitHub Classroom invitation to this exercise [here]()
+1.	Accept the GitHub Classroom invitation to this exercise [here](http://www.noucamp.org/moodle/mod/resource/view.php?id=4859)
 
 1.	Copy the clone URL from your new repository ``JavaScript-<YOURACCOUNT>``
 
