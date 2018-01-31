@@ -54,7 +54,18 @@ Check your ``htdocs`` folder.  You should have a new folder called ``JavaScript`
 		
 	Save the files and view in your browser using the URL [http://localhost/JavaScript/SecondJS.html](http://localhost/JavaScript/SecondJS.html)
 
-	
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs/JavaScript
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 1 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
+
 
 ## Part 2 – Fundamentals
 
@@ -203,3 +214,17 @@ Check your ``htdocs`` folder.  You should have a new folder called ``JavaScript`
 1.	In ``fundamentals.html`` uncomment the function call to ``part7()``.  Modify the function ``part7()`` in ``fundamentals.js`` to print the ``draw`` images like this:
 
 	![alt text](../images/draw.png "Lotto Draw")
+
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs/JavaScript
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 2 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
+
