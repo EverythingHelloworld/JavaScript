@@ -1,4 +1,4 @@
-# JavaScript Exercise 1 -- Fundamentals
+# JavaScript Exercise 1 – Fundamentals
 
 
 ## Clone the Remote Repository
