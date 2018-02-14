@@ -2,3 +2,4 @@
 
 -	[JavaScript Exercise 1 – Fundamentals](exercises/JavaScriptEx1.md)
 -	[JavaScript Exercise 2 – The DOM](exercises/JavaScriptEx2.md)
+-	[JavaScript Exercise 3 – Event Handline](exercises/JavaScriptEx3.md)
