@@ -29,6 +29,68 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 
 # Part 2
 
+1.	You are meant to keep your HTML and JavaScript code separate. 
+
+	Examine the code in ``FirstEventV2.html`` and ``script.js`.  Then open it in your browser with [http://localhost/JavaScript/FirstEventV2.html](http://localhost/JavaScript/FirstEventV2.html).  
+
+	This code is typical of how you can do all Event Handling in JavaScript.
+
+
+1.	Examine the code in ``ButtonEventV2.html`` and ``ButtonEventV2.js``.
+
+	Modify the code in ``ButtonEventV2.js`` so an alert is displayed when the button is clicked.
+
+
+1.	Examine the code in ``DropDownEventV2.html`` and ``DropDownEventV2.js``.
+
+	Modify the code in ``DropDownEventV2.js`` so an alert displays the type of fruit selected.
+
+
+1.	Examine the code in ``TextBoxEventV2.html`` and ``TextBoxEventV2.js``.
+
+	Modify the code in ``TextBoxEventV2.html`` and ``TextBoxEventV2.js`` so data about the event appears in the console log tab.
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs/JavaScript
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 3 - Part 3 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
+
+# Part 3
+
+1.	Examine the code in ``fruit1.html`` and ``fruit1.js``.  Add the necessary code to change the colour of all paragraphs to red.  Use the method ``setAttribute("style","color:red");``
+
+
+1.	Add to the HTML code in ``fruit1.html`` a ``<button>`` with the caption *Style*. 
+	Only when this button is clicked should the paragraphs be coloured red.
+	
+
+	
+1.	Examine the code ``fruit2.html`` and create a JavaScript file called ``fruit2.js`` to change the ``<span>``
+	value to the selection made from the dropdown box.
+
+
+1.	Modify the JavaScript file ``fruit2.js`` to change the colour of the ``<h1>`` heading to blue when 
+	the user moves the mouse over it.  And when the mouse leaves the heading the colour should be restored to black.
+
+	See [HTML DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)
+	
+	
+1.	Examine the code in ``toUpper.html`` and using JavaScript in a file called ``toUpper.js`` allow the user 
+	to type text in the first textbox and when the *To Upper* button is pressed display the text 
+	input using uppercase in the second textbox.
+	 
+	This link will be useful – [JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+
+1.	Examine the HTML code in ``favouriteV2.html`` and create a JavaScript file ``favouriteV2.js`` to update the ``<b>`` element with the correct colour when a new colour is selected from the dropdown box.
+
+	You must capture the ``onchange`` event associated with the dropdown box. 
 
 
 
@@ -38,7 +100,7 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 	$ cd /<DRIVE>/xampp/htdocs/JavaScript
 	$ git status
 	$ git add .
-	$ git commit -m "Exercise 3 - Part 1 DONE|PARTIAL|HELP"
+	$ git commit -m "Exercise 3 - Part 3 DONE|PARTIAL|HELP"
 	$ git push origin master
 	$ git status
 
