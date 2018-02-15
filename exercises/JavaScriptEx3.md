@@ -105,3 +105,32 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 	$ git status
 
 	```
+
+
+# Part 4
+
+Fetch latest version of the repository:
+
+```
+$ cd /DRIVE/xampp/htdocs/JavaScript
+$ git pull --no-edit https://github.com/noucampdotorgCSS/JavaScript.git latest
+$ git status
+
+```
+
+Check your ``htdocs/JavaScript`` folder.  You should have a new subfolder called ``liveMatch`` with some code and images files.
+
+1.	Watch this [video](https://media.heanet.ie/page/205da5282eae9bd73455e8f82f4b5c27) that illustrates a program that records match events for a GAA match.  You will use the files given in the ``liveMatch`` folder to replicate this functionality.  
+
+1.	Push your code solutions to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs/JavaScript
+	$ git status
+	$ git add .
+	$ git commit -m "Match Events - Part 4 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
+
