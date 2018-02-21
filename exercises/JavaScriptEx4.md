@@ -28,7 +28,7 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 
 1.	Modify the code so that the artist *Miley Cyrus* is also added to the table when you click the *Add* button.
 
-	Make sure you are using the ``<tr>`` and ``<td>`` elements correctly in you solution.
+	Make sure you are using the ``<tr>`` and ``<td>`` elements correctly in your solution.
 
 1.	Push your code solutions to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
@@ -50,7 +50,12 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 	
 	![alt text](../images/favouriteAdd.png "Favourite Add")
 
-	Test everything works.	
+	Use the ``value`` property to get the text in the textbox.  For the colour shown above make sure this is HTML code added to the dropdown:
+
+	```
+	<option value="purple">purple</option>
+
+	```
 
 	
 1.	Create a web page that initially shows just four radio buttons as shown below.
