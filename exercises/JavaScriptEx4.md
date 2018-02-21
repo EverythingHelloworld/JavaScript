@@ -17,14 +17,18 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 	
 # Part 1
 
+
 1.	Examine the code in ``Artists.html`` and ``Artists.js``.  Then open it in your browser with [http://localhost/JavaScript/Artists.html](http://localhost/JavaScript/Artists.html).  
 
-	Understand why a the ``<li>`` for Miley Cyrus appears.
+	Understand why the ``<li>`` for *Miley Cyrus* appears.
 
-1.	Modify the code so that the artist Miley Cyrus is only added to the list when you click the *Add* button.
+1.	Modify the code so that the artist *Miley Cyrus* is only added to the list when you click the *Add* button.
 
+1.	In ``Artist.html`` uncomment the HTML code for the ``<table>`` element and then view it using [http://localhost/JavaScript/Artists.html](http://localhost/JavaScript/Artists.html).
 
-1.	In the previous exercise the button can add the item "Miley Cyrus" more than once to the list.  Modify the code so it can only be added once.
+1.	Modify the code so that the artist *Miley Cyrus* is also added to the table when you click the *Add* button.
+
+	Make sure you are using the ``<tr>`` and ``<td>`` elements correctly in you solution.
 
 1.	Push your code solutions to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
