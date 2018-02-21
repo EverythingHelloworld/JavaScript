@@ -59,11 +59,11 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 
 	
 1.	Create a web page that initially shows just four radio buttons as shown below.
-	If the *Other* radio button is clicked a text box should then appear.
+	Only if the *Other* radio button is clicked should a text box then appear.
 	
 	![alt text](../images/other.png "")
 
-	Try to ensure only one text box appears when clicking the Other radio button more than once.
+	Try to ensure only one text box appears when clicking the Other radio button more than once.  Note: the texybox won't be used for anything.
 
 	Keep the HTML and JavaScript in separate files please.
 	
